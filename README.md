@@ -12,7 +12,8 @@
 このプログラムはコマンドが打てなくても連番ファイルの作成が可能
 
 
-![img](https://user-images.githubusercontent.com/69783019/101372476-4ae82880-38ef-11eb-94b0-759e90e142a3.png)
+![img](https://user-images.githubusercontent.com/69783019/101378356-57bc4a80-38f6-11eb-9f5a-78a0f26df68d.png)
+
 
 
 

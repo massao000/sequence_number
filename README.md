@@ -18,9 +18,9 @@
 
 # demo movie
 
-![Videotogif (2)](https://user-images.githubusercontent.com/69783019/101372231-0492c980-38ef-11eb-81cd-b7a23dc7a064.gif)
+![Videotogif (3)](https://user-images.githubusercontent.com/69783019/101374914-1d50ae80-38f2-11eb-8a27-c48de42f584b.gif)
 
-# 使い方
+# ～使い方～
  
 ## テキスト入力に対しての注意点と機能
 
@@ -45,6 +45,10 @@ gifを入れる
  
 
 メニューの１か２の選択
+
+一例としては下のテーブルのように入力すると「c」ドライブに「demo」フォルダが作成され
+demoフォルダの中に「test.txt」が生成予定になります。
+(ファイル数10は、次の処理でパターンをきめます)
 
 | メニュー | 1：新規フォルダに作成 | 2：既存フォルダに作成 |
 |:---:|:---:|:---:|

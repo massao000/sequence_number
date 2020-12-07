@@ -39,7 +39,7 @@
  
  ### 連番のパターン選択
  
- |_ | 1：1xxx.xxx | 2：1_xxx.xxx | 3：xxx1.xxx | 4：xxx1_.xxx |
+ | 1：1xxx.xxx | 2：1_xxx.xxx | 3：xxx1.xxx | 4：xxx1_.xxx |
  |:---:|:---:|:---:|:---:|:---:|
 
  <br>

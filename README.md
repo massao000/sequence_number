@@ -45,11 +45,12 @@
  <br>
  
  ### ゼロ詰めにしますか？(y/n)
- | y | 01xxx.xxx | 01_xxx.xxx | xxx01.xxx | xxx01_.xxx |
- |:---:|:---:|:---:|:---:|:---:|
-
- | n | 1xxx.xxx | 1_xxx.xxx | xxx1.xxx | xxx1_.xxx |
- |:---:|:---:|:---:|:---:|:---:|
+ | y(yes) | n(no) |
+ |:---:|:---:|
+ | 01xxx.xxx | 1xxx.xxx |
+ | 01_xxx.xxx | 1_xxx.xxx |
+ | xxx01.xxx | xxx1.xxx |
+ | xxx01_.xxx | xxx1_.xxx |
 
  <br>
  

@@ -8,9 +8,9 @@
 
 ![ソースコードサイズ](https://img.shields.io/badge/test-nw-blue)
 ![pythinのバッチ]
+![Windowsのバッチ]
 
-
-![Windowsのバッチ](https://github.com/massao000/sequence_number/blob/main/Desktop%20Screenshot%202020.12.07%20-%2023.44.58.98.png)
+![img](https://github.com/massao000/sequence_number/blob/main/git_img/Desktop%20Screenshot%202020.12.07%20-%2023.44.58.98.png)
 
 
 # 連番ファイルの作成

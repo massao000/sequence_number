@@ -1,3 +1,6 @@
+![ソースコードサイズ](https://img.shields.io/badge/test-nw-blue)
+![pythinのバッチ]
+![Windowsのバッチ]
 <h1 align = "center">
   <br>
   <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"> <img src = "https://arminc.ga/resources/autoexec/arminc_autoexec.png" alt = " ArminC AutoExec "> </a>
@@ -6,67 +9,77 @@
 
 # このプログラムの名前
 
-![ソースコードサイズ](https://img.shields.io/badge/test-nw-blue)
-![pythinのバッチ]
-![Windowsのバッチ]
-
-![img](https://github.com/massao000/sequence_number/blob/main/git_img/Desktop%20Screenshot%202020.12.07%20-%2023.44.58.98.png)
+このプログラムはコマンドが打てなくても連番ファイルの作成が可能
 
 
-# 連番ファイルの作成
+![img](https://user-images.githubusercontent.com/69783019/101372476-4ae82880-38ef-11eb-94b0-759e90e142a3.png)
 
-使用デモのgifを入れる
 
-ちゃんとしたものをとる
-![Videotogif](https://user-images.githubusercontent.com/69783019/99545272-8d0d0100-29f8-11eb-9191-9237dd21fe8c.gif)
 
-## 説明
+# demo movie
+
+![Videotogif (2)](https://user-images.githubusercontent.com/69783019/101372231-0492c980-38ef-11eb-81cd-b7a23dc7a064.gif)
 
 # 使い方
+ 
+## テキスト入力に対しての注意点と機能
+
+各項目ごとに入力テキストに空文字入力がされたときは再入力してもらいます。
+
+絶対パスの c:demo c:<font color="Red">\\</font>demo の始めだけのスラッシュが抜けていても自動でつけてくれます。
+
+
+ 
+フォルダ名＆ファイル名がすでにある場合または同じ名前の時、もう一度入力テキストが出ます。
+（ \\ / ? * " < > | ）これらの作成できない記号がもし入れば自動で除去されたものがファイル名＆フォルダ。
+
+
+
 ## 連番ファイルの作成
+
+gifを入れる
+
+メニューから１を入力（半角、全角どちらも可）
+
+### 保存先の選択
  
- gifを入れる
 
- メニューから１を入力（半角、全角どちらも可）
+メニューの１か２の選択
 
- ### 保存先の選択
- 
-
- メニューの１か２の選択
-
- | メニュー | 1：新規フォルダに作成 | 2：既存フォルダに作成 |
- |:---:|:---:|:---:|
- | 絶対パスの指定 | c:\ | c:\demo |
- | フォルダ名 | demo | × |
- | ファイル名 | test | test2 |
- | 拡張子 | txt | txt |
- | ファイル数 | 10 | 10 |
-
- 
- ### 連番のパターン選択
+| メニュー | 1：新規フォルダに作成 | 2：既存フォルダに作成 |
+|:---:|:---:|:---:|
+| 絶対パスの指定 | c:\ | c:\demo |
+| フォルダ名 | demo | × |
+| ファイル名 | test | test2 |
+| 拡張子 | txt | txt |
+| ファイル数 | 10 | 10 |
 
 
  
- | 1：1xxx.xxx | 2：1_xxx.xxx | 3：xxx1.xxx | 4：xxx1_.xxx |
- |:---:|:---:|:---:|:---:|
+### 連番のパターン選択
 
- <br>
- 
- ### ゼロ詰めにしますか？(y/n)
- | y(yes) | n(no) |
- |:---:|:---:|
- | 01xxx.xxx | 1xxx.xxx |
- | 01_xxx.xxx | 1_xxx.xxx |
- | xxx01.xxx | xxx1.xxx |
- | xxx01_.xxx | xxx1_.xxx |
 
- <br>
  
- ### 作成したフォルダを開きますか？(y/n)
- 
- <br>
+| 1：1xxx.xxx | 2：1_xxx.xxx | 3：xxx1.xxx | 4：xxx1_.xxx |
+|:---:|:---:|:---:|:---:|
 
- ### 終了しますか？(y/n)
+<br>
+ 
+### ゼロ詰めにしますか？(y/n)
+| y(yes) | n(no) |
+|:---:|:---:|
+| 01xxx.xxx | 1xxx.xxx |
+| 01_xxx.xxx | 1_xxx.xxx |
+| xxx01.xxx | xxx1.xxx |
+| xxx01_.xxx | xxx1_.xxx |
+
+<br>
+ 
+### 作成したフォルダを開きますか？(y/n)
+ 
+<br>
+
+### 終了しますか？(y/n)
 
 ---
 

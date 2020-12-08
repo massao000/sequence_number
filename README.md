@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/badge/-Windows10-blue"alt="os">
   </a>
 
+# 使用できる環境
+
+Windows 10
+
 # スタートメニュー
 ![img](https://user-images.githubusercontent.com/69783019/101495044-5f89f680-39ab-11eb-9eb5-c4799b37a334.png)
 
@@ -128,6 +132,4 @@ gifをれる
 | 作成フォルダを開くか | 作成フォルダを開くか | 作成フォルダを開くか | 作成フォルダを開くか | 作成フォルダを開くか |
 | 終了するか | 終了するか | 終了するか | 終了するか | 終了するか |
 
-## 使用できる環境
 
-Windows 10

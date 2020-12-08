@@ -11,14 +11,11 @@
     <img src="https://img.shields.io/badge/-Windows10-blue"alt="os">
   </a>
 
-
-# このプログラムの名前
-
+# スタートメニュー
 ![img](https://user-images.githubusercontent.com/69783019/101495044-5f89f680-39ab-11eb-9eb5-c4799b37a334.png)
 
 
 # demo movie
-## 連番ファイル作成 movie
 
 ![mv](https://user-images.githubusercontent.com/69783019/101377992-debcf300-38f5-11eb-8b99-b6c899afa05e.gif)
 

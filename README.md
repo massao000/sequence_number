@@ -41,7 +41,7 @@
 
 ![me1_a](https://user-images.githubusercontent.com/69783019/101502363-34f06b80-39b4-11eb-9bbf-1d0b183b9ded.gif)
 
-メニューから１を入力（半角、全角どちらも可）
+メニューから１を入力
 
 ### 保存先の選択
 
@@ -59,7 +59,9 @@ demoフォルダの中に「test.txt」が生成予定になります。
 | 拡張子 | txt | txt |
 | ファイル数 | 10 | 10 |
 
+![img](https://user-images.githubusercontent.com/69783019/101378356-57bc4a80-38f6-11eb-9f5a-78a0f26df68d.png)
 
+<br>
  
 ### 連番のパターン選択
 
@@ -77,10 +79,6 @@ demoフォルダの中に「test.txt」が生成予定になります。
 | 01_xxx.xxx | 1_xxx.xxx |
 | xxx01.xxx | xxx1.xxx |
 | xxx01_.xxx | xxx1_.xxx |
-
-<br>
-
-![img](https://user-images.githubusercontent.com/69783019/101378356-57bc4a80-38f6-11eb-9f5a-78a0f26df68d.png)
  
 ### 作成したフォルダを開きますか？(y/n)
 
@@ -96,24 +94,24 @@ demoフォルダの中に「test.txt」が生成予定になります。
 ---
 # サブ機能 GIF
 
-# フォルダの作成
+## フォルダの作成
 ![m2](https://user-images.githubusercontent.com/69783019/101501711-6d437a00-39b3-11eb-9327-bbfc4c1a4765.gif)
 
-# フィルの作成
+## フィルの作成
 osがはいいているCドライブに直接ファイルは作成でません。
 ![me3](https://user-images.githubusercontent.com/69783019/101501722-6fa5d400-39b3-11eb-89cd-48c4ce9d6255.gif)
 
-# HTMLのテンプレート作成
+## HTMLのテンプレート作成
 ![me4](https://user-images.githubusercontent.com/69783019/101501728-72082e00-39b3-11eb-9f4c-b6c92451b371.gif)
 
-# README.mdのテンプレート作成
+## README.mdのテンプレート作成
 ![me5](https://user-images.githubusercontent.com/69783019/101501737-73d1f180-39b3-11eb-8411-3fc8ac34c14b.gif)
 
 
 * プログラムの終了
 gifをれる
 
-# 入力が必要な項目
+## 入力が必要な項目
 
 | 連番ファイルの作成 | フォルダの作成 | フィルの作成 | HTMLのテンプレート作成 |READMEのテンプレート作成 |
 |:---:|:---:|:---:|:---:|:---:|

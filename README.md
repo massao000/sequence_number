@@ -59,6 +59,8 @@ demoフォルダの中に「test.txt」が生成予定になります。
 | 拡張子 | txt | txt |
 | ファイル数 | 10 | 10 |
 
+入力したときの画像▼
+
 ![img](https://user-images.githubusercontent.com/69783019/101378356-57bc4a80-38f6-11eb-9f5a-78a0f26df68d.png)
 
 <br>

@@ -9,21 +9,22 @@
 
 # このプログラムの名前
 
-このプログラムはコマンドが打てなくても連番ファイルの作成が可能
 
 
-![img](https://user-images.githubusercontent.com/69783019/101378356-57bc4a80-38f6-11eb-9f5a-78a0f26df68d.png)
 
+![img](https://user-images.githubusercontent.com/69783019/101495044-5f89f680-39ab-11eb-9eb5-c4799b37a334.png)
 
 
 # demo movie
 ## 連番ファイル作成 movie
+![me1_a](https://user-images.githubusercontent.com/69783019/101502363-34f06b80-39b4-11eb-9bbf-1d0b183b9ded.gif)
 
 ![mv](https://user-images.githubusercontent.com/69783019/101377992-debcf300-38f5-11eb-8b99-b6c899afa05e.gif)
 
-# ～使い方～
  
-### テキスト入力に対しての注意点と機能
+# テキスト入力に対しての全体の注意点と機能
+
+* このプログラムはコマンドが打てなくても連番ファイルの作成が可能
 
 * 各項目ごとに入力テキストに空文字入力がされたときは再入力してもらいます。
 
@@ -34,6 +35,9 @@
 * フォルダ名＆ファイル名がすでにある場合または同じ名前の時、もう一度入力テキストが出ます。
 （ \\ / ? * " < > | ）これらの作成できない記号がもし入れば自動で除去されたものがファイル名＆フォルダ名になります。
 
+* 
+
+# ～使い方～
 ### 連番ファイルの作成
 
 gifを入れる
@@ -41,7 +45,6 @@ gifを入れる
 メニューから１を入力（半角、全角どちらも可）
 
 ### 保存先の選択
- 
 
 メニューの１か２の選択
 
@@ -77,31 +80,35 @@ demoフォルダの中に「test.txt」が生成予定になります。
 | xxx01_.xxx | xxx1_.xxx |
 
 <br>
+
+![img](https://user-images.githubusercontent.com/69783019/101378356-57bc4a80-38f6-11eb-9f5a-78a0f26df68d.png)
  
 ### 作成したフォルダを開きますか？(y/n)
 
-今回だと「c:\demo」のフォルダのエクスプローラーを開こうとしています。
-y(yes)の場合エクスプローラーを開きます。
-n(no)の場合エクスプローラーを開かずに次の処理に行きます。
+* 今回だと「c:\demo」のフォルダのエクスプローラーを開こうとしています。
+* y(yes)の場合エクスプローラーを開きます。
+* n(no)の場合エクスプローラーを開かずに次の処理に行きます。
+
  
 <br>
 
 ### 終了しますか？(y/n)
 
 ---
-# サブ機能
+# サブ機能 GIF
 
-* フォルダの作成
-gifをれる
+# フォルダの作成
+![m2](https://user-images.githubusercontent.com/69783019/101501711-6d437a00-39b3-11eb-9327-bbfc4c1a4765.gif)
 
-* フィルの作成
-gifをれる
+# フィルの作成
+![me3](https://user-images.githubusercontent.com/69783019/101501722-6fa5d400-39b3-11eb-89cd-48c4ce9d6255.gif)
 
-* HTMLのテンプレート作成
-gifをれる
+# HTMLのテンプレート作成
+![me4](https://user-images.githubusercontent.com/69783019/101501728-72082e00-39b3-11eb-9f4c-b6c92451b371.gif)
 
-* README.mdのテンプレート作成
-gifをれる
+# README.mdのテンプレート作成
+![me5](https://user-images.githubusercontent.com/69783019/101501737-73d1f180-39b3-11eb-8411-3fc8ac34c14b.gif)
+
 
 * プログラムの終了
 gifをれる

@@ -1,6 +1,6 @@
 <h1 align = "center">
   <br>
-  <a href="img" ><img src = "https://user-images.githubusercontent.com/69783019/101507010-6ddf0f00-39b9-11eb-8ca1-8b49a16a146d.png" width="250px" alt = " ArminC AutoExec "></a>
+  <a href="img" ><img src = "https://user-images.githubusercontent.com/69783019/101508941-91a35480-39bb-11eb-863d-31bbb68eaf30.png"  alt = " ArminC AutoExec "></a>
 </h1>
 <h4 align = "center">テスト</h4>
 <p align="center">

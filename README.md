@@ -2,7 +2,7 @@
   <br>
   <a href="img" ><img src = "https://user-images.githubusercontent.com/69783019/101510502-5bff6b00-39bd-11eb-81a7-171c8dc90503.png" width="500" alt = " ArminC AutoExec "></a>
 </h1>
-<h4 align = "center">テスト</h4>
+<h4 align = "center">簡単に連番ファイルなどが作れる</h4>
 <p align="center">
   <a href="https://img.shields.io/badge/python-3.9.0-blue">
     <img src="https://img.shields.io/badge/python-3.9.0-blue"alt="python">
@@ -133,14 +133,3 @@ gifをれる
 ## 使用できる環境
 
 Windows 10
-
-
-
-
-[参考ページ](https://github.com/matiassingers/awesome-readme)
-
-[バッチのつけ方](https://qiita.com/koeri3/items/f85a617dcb6efebb2cab)
-
-[バッチのつけ方](https://kic-yuuki.hatenablog.com/entry/2019/06/29/173256)
-
-[gifに変換](https://rakko.tools/tools/86/)

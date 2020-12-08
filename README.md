@@ -17,7 +17,6 @@
 
 # demo movie
 ## 連番ファイル作成 movie
-![me1_a](https://user-images.githubusercontent.com/69783019/101502363-34f06b80-39b4-11eb-9bbf-1d0b183b9ded.gif)
 
 ![mv](https://user-images.githubusercontent.com/69783019/101377992-debcf300-38f5-11eb-8b99-b6c899afa05e.gif)
 
@@ -33,14 +32,13 @@
 * 絶対パスの c:demo c:<font color="Red">\\</font>demo の始めだけのスラッシュが抜けていても自動でつけてくれます。
  
 * フォルダ名＆ファイル名がすでにある場合または同じ名前の時、もう一度入力テキストが出ます。
-（ \\ / ? * " < > | ）これらの作成できない記号がもし入れば自動で除去されたものがファイル名＆フォルダ名になります。
 
-* 
+* （ \\ / ? * " < > | ）これらの作成できない記号がもし入れば自動で除去されたものがファイル名＆フォルダ名になります。
 
 # ～使い方～
 ### 連番ファイルの作成
 
-gifを入れる
+![me1_a](https://user-images.githubusercontent.com/69783019/101502363-34f06b80-39b4-11eb-9bbf-1d0b183b9ded.gif)
 
 メニューから１を入力（半角、全角どちらも可）
 

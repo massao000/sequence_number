@@ -1,16 +1,18 @@
-![ソースコードサイズ](https://img.shields.io/badge/test-nw-blue)
-![pythinのバッチ]
-![Windowsのバッチ]
 <h1 align = "center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"> <img src = "https://arminc.ga/resources/autoexec/arminc_autoexec.png" alt = " ArminC AutoExec "> </a>
+  <a href="img"> <img src = "https://user-images.githubusercontent.com/69783019/101507010-6ddf0f00-39b9-11eb-8ca1-8b49a16a146d.png" alt = " ArminC AutoExec "> </a>
 </h1>
 <h4 align = "center">テスト</h4>
+<p align="center">
+  <a href="https://img.shields.io/badge/python-3.9.0-blue">
+    <img src="https://img.shields.io/badge/python-3.9.0-blue"alt="python">
+  </a>
+  <a href="https://img.shields.io/badge/-Windows10-blue">
+    <img src="https://img.shields.io/badge/-Windows10-blue"alt="os">
+  </a>
+
 
 # このプログラムの名前
-
-
-
 
 ![img](https://user-images.githubusercontent.com/69783019/101495044-5f89f680-39ab-11eb-9eb5-c4799b37a334.png)
 
@@ -34,6 +36,8 @@
 * フォルダ名＆ファイル名がすでにある場合または同じ名前の時、もう一度入力テキストが出ます。
 
 * （ \\ / ? * " < > | ）これらの作成できない記号がもし入れば自動で除去されたものがファイル名＆フォルダ名になります。
+
+* osがはいいているCドライブに直接ファイルは作成でません。
 
 # ～使い方～
 ### 連番ファイルの作成
@@ -62,7 +66,7 @@ demoフォルダの中に「test.txt」が生成予定になります。
  
 ### 連番のパターン選択
 
-
+1~4の連番のパターンを決めます。
  
 | 1：1xxx.xxx | 2：1_xxx.xxx | 3：xxx1.xxx | 4：xxx1_.xxx |
 |:---:|:---:|:---:|:---:|
@@ -99,6 +103,7 @@ demoフォルダの中に「test.txt」が生成予定になります。
 ![m2](https://user-images.githubusercontent.com/69783019/101501711-6d437a00-39b3-11eb-9327-bbfc4c1a4765.gif)
 
 # フィルの作成
+osがはいいているCドライブに直接ファイルは作成でません。
 ![me3](https://user-images.githubusercontent.com/69783019/101501722-6fa5d400-39b3-11eb-89cd-48c4ce9d6255.gif)
 
 # HTMLのテンプレート作成
@@ -124,10 +129,6 @@ gifをれる
 | ゼロ詰めにするか | × | × | × | × |
 | 作成フォルダを開くか | 作成フォルダを開くか | 作成フォルダを開くか | 作成フォルダを開くか | 作成フォルダを開くか |
 | 終了するか | 終了するか | 終了するか | 終了するか | 終了するか |
-
-<br>
-
-## 
 
 ## 使用できる環境
 
